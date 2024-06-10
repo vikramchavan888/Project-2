@@ -722,12 +722,11 @@ width:fit-content;
 }
 .Project .frame-2 {
 
-  position:absolute;
+  position: absolute;
   top: 23.1rem;
-  
+  right: 0.6rem;
   display: flex;
   flex-direction: column;
-
   box-sizing: border-box;
 }
 .Project {
